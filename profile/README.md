@@ -4,12 +4,9 @@ CrafteryLabs is an open-source organization focused on developing high-quality p
 
 ## Projects
 
-- [Craftery](https://github.com/CrafteryLabs/Craftery)  
-  A bukkit plugin for creating and managing highly customizable custom items, blocks, armor, and furniture, with built-in resource pack generation and delivery.
-
-- [Packify](https://github.com/CrafteryLabs/Packify)  
-  A resource pack server that generates, hosts, and streams custom resource packs to players, either as a standalone service or embedded within Craftery.
+- [Craftery](https://github.com/CrafteryLabs/CrafteryLib)  
+  A library for creating multiplatform modifications.
 
 ---
 
-All projects are licensed under the GNU General Public License v3.0 (GPLv3).
+All projects are licensed under the MIT License.
